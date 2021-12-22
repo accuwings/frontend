@@ -20,7 +20,7 @@ The quickest way to contribute changes to the BitClout Frontend is the following
 
 1. Open frontend repo in Gitpod
 
-[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/deso-protocol/frontend)
+[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/accuwings/frontend)
 
 You can use any repo / branch URL and just prepend `https://gitpod.io/#` to it.
 
